@@ -1,0 +1,101 @@
+,Year,Order method,Revenue,Product line,Product type,Product,Retailer country
+0,2004,Telephone,315044.33,Camping Equipment,Cooking Gear,TrailChef Water Bag,United States
+1,2004,Telephone,14313.48,Camping Equipment,Cooking Gear,TrailChef Water Bag,Canada 
+2,2004,Telephone,156644.47,Camping Equipment,Cooking Gear,TrailChef Water Bag,Mexico 
+3,2004,Telephone,59191.72,Camping Equipment,Cooking Gear,TrailChef Water Bag,Brazil 
+4,2004,Telephone,7029.33,Camping Equipment,Cooking Gear,TrailChef Water Bag,Japan 
+5,2004,Telephone,52613.47,Camping Equipment,Cooking Gear,TrailChef Water Bag,Korea 
+6,2004,Telephone,41912.85,Camping Equipment,Cooking Gear,TrailChef Water Bag,China 
+7,2004,Telephone,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Singapore 
+8,2004,Telephone,156324.28,Camping Equipment,Cooking Gear,TrailChef Water Bag,Australia 
+9,2004,Telephone,23042.67,Camping Equipment,Cooking Gear,TrailChef Water Bag,Netherlands 
+10,2004,Telephone,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Sweden 
+11,2004,Telephone,66446.59,Camping Equipment,Cooking Gear,TrailChef Water Bag,Finland 
+12,2004,Telephone,13620.11,Camping Equipment,Cooking Gear,TrailChef Water Bag,Denmark 
+13,2004,Telephone,77447.93,Camping Equipment,Cooking Gear,TrailChef Water Bag,France 
+14,2004,Telephone,6615.84,Camping Equipment,Cooking Gear,TrailChef Water Bag,Germany 
+15,2004,Telephone,62800.36,Camping Equipment,Cooking Gear,TrailChef Water Bag,United Kingdom
+16,2004,Telephone,52776.36,Camping Equipment,Cooking Gear,TrailChef Water Bag,Belgium 
+17,2004,Telephone,52519.3,Camping Equipment,Cooking Gear,TrailChef Water Bag,Switzerland 
+18,2004,Telephone,28405.51,Camping Equipment,Cooking Gear,TrailChef Water Bag,Austria 
+19,2004,Telephone,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Italy 
+20,2004,Telephone,42163.45,Camping Equipment,Cooking Gear,TrailChef Water Bag,Spain 
+21,2004,visit,7367.64,Camping Equipment,Cooking Gear,TrailChef Water Bag,United States
+22,2004,visit,59404.73,Camping Equipment,Cooking Gear,TrailChef Water Bag,Canada 
+23,2004,visit,13620.11,Camping Equipment,Cooking Gear,TrailChef Water Bag,Mexico 
+24,2004,visit,77447.93,Camping Equipment,Cooking Gear,TrailChef Water Bag,Brazil 
+25,2004,visit,6615.84,Camping Equipment,Cooking Gear,TrailChef Water Bag,Japan 
+26,2004,visit,62800.36,Camping Equipment,Cooking Gear,TrailChef Water Bag,Korea 
+27,2004,visit,52776.36,Camping Equipment,Cooking Gear,TrailChef Water Bag,China 
+28,2004,visit,52519.3,Camping Equipment,Cooking Gear,TrailChef Water Bag,Singapore 
+29,2004,visit,28405.51,Camping Equipment,Cooking Gear,TrailChef Water Bag,Australia 
+30,2004,visit,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Netherlands 
+31,2004,visit,62800.36,Camping Equipment,Cooking Gear,TrailChef Water Bag,Sweden 
+32,2004,visit,72891.83,Camping Equipment,Cooking Gear,TrailChef Water Bag,Finland 
+33,2004,visit,12469.92,Camping Equipment,Cooking Gear,TrailChef Water Bag,Denmark 
+34,2004,visit,96009.15,Camping Equipment,Cooking Gear,TrailChef Water Bag,France 
+35,2004,visit,137602.28,Camping Equipment,Cooking Gear,TrailChef Water Bag,Germany 
+36,2004,visit,52776.36,Camping Equipment,Cooking Gear,TrailChef Water Bag,United Kingdom
+37,2004,visit,52519.3,Camping Equipment,Cooking Gear,TrailChef Water Bag,Belgium 
+38,2004,visit,28405.51,Camping Equipment,Cooking Gear,TrailChef Water Bag,Switzerland 
+39,2004,visit,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Austria 
+40,2004,visit,103089.33,Camping Equipment,Cooking Gear,TrailChef Water Bag,Italy 
+41,2004,visit,13036.14,Camping Equipment,Cooking Gear,TrailChef Water Bag,Spain 
+42,2004,Web,340867.26,Camping Equipment,Cooking Gear,TrailChef Water Bag,United States
+43,2004,Web,171649.73,Camping Equipment,Cooking Gear,TrailChef Water Bag,Canada 
+44,2004,Web,33964.86,Camping Equipment,Cooking Gear,TrailChef Water Bag,Mexico 
+45,2004,Web,156433.42,Camping Equipment,Cooking Gear,TrailChef Water Bag,Brazil 
+46,2004,Web,81860.98,Camping Equipment,Cooking Gear,TrailChef Water Bag,Japan 
+47,2004,Web,98184.41,Camping Equipment,Cooking Gear,TrailChef Water Bag,Korea 
+48,2004,Web,348446.25,Camping Equipment,Cooking Gear,TrailChef Water Bag,China 
+49,2004,Web,18728.78,Camping Equipment,Cooking Gear,TrailChef Water Bag,Singapore 
+50,2004,Web,156433.42,Camping Equipment,Cooking Gear,TrailChef Water Bag,Australia 
+51,2004,Web,81860.98,Camping Equipment,Cooking Gear,TrailChef Water Bag,Netherlands 
+52,2004,Web,98184.41,Camping Equipment,Cooking Gear,TrailChef Water Bag,Sweden 
+53,2004,Web,348446.25,Camping Equipment,Cooking Gear,TrailChef Water Bag,Finland 
+54,2004,Web,44093.69,Camping Equipment,Cooking Gear,TrailChef Water Bag,Denmark 
+55,2004,Web,121196.69,Camping Equipment,Cooking Gear,TrailChef Water Bag,France 
+56,2004,Web,74427.46,Camping Equipment,Cooking Gear,TrailChef Water Bag,Germany 
+57,2004,Web,168290.41,Camping Equipment,Cooking Gear,TrailChef Water Bag,United Kingdom
+58,2004,Web,56911.24,Camping Equipment,Cooking Gear,TrailChef Water Bag,Belgium 
+59,2004,Web,74427.46,Camping Equipment,Cooking Gear,TrailChef Water Bag,Switzerland 
+60,2004,Web,168290.41,Camping Equipment,Cooking Gear,TrailChef Water Bag,Austria 
+61,2004,Web,13707.2,Camping Equipment,Cooking Gear,TrailChef Water Bag,Italy 
+62,2004,Web,127219.95,Camping Equipment,Cooking Gear,TrailChef Water Bag,Spain 
+63,2004,Special,74427.46,Camping Equipment,Cooking Gear,TrailChef Water Bag,United 
+64,2004,Special,168290.41,Camping Equipment,Cooking Gear,TrailChef Water Bag,Canada 
+65,2004,Special,27842.75,Camping Equipment,Cooking Gear,TrailChef Water Bag,Mexico 
+66,2004,Special,52613.47,Camping Equipment,Cooking Gear,TrailChef Water Bag,Brazil 
+67,2004,Special,41912.85,Camping Equipment,Cooking Gear,TrailChef Water Bag,Japan 
+68,2004,Special,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Korea 
+69,2004,Special,156324.28,Camping Equipment,Cooking Gear,TrailChef Water Bag,China 
+70,2004,Special,23042.67,Camping Equipment,Cooking Gear,TrailChef Water Bag,Singapore 
+71,2004,Special,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Australia 
+72,2004,Special,66446.59,Camping Equipment,Cooking Gear,TrailChef Water Bag,Netherlands 
+73,2004,Special,13620.11,Camping Equipment,Cooking Gear,TrailChef Water Bag,Sweden 
+74,2004,Special,77447.93,Camping Equipment,Cooking Gear,TrailChef Water Bag,Finland 
+75,2004,Special,6615.84,Camping Equipment,Cooking Gear,TrailChef Water Bag,Denmark 
+76,2004,Special,52613.47,Camping Equipment,Cooking Gear,TrailChef Water Bag,France 
+77,2004,Special,41912.85,Camping Equipment,Cooking Gear,TrailChef Water Bag,Germany 
+78,2004,Special,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,United Kingdom
+79,2004,Special,156324.28,Camping Equipment,Cooking Gear,TrailChef Water Bag,Belgium 
+80,2004,Special,23042.67,Camping Equipment,Cooking Gear,TrailChef Water Bag,Switzerland 
+81,2004,Special,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Austria 
+82,2004,Special,66446.59,Camping Equipment,Cooking Gear,TrailChef Water Bag,Italy 
+83,2004,Special,13620.11,Camping Equipment,Cooking Gear,TrailChef Water Bag,Spain 
+84,2004,Mail,77447.93,Camping Equipment,Cooking Gear,TrailChef Water Bag,United States
+85,2004,Mail,6615.84,Camping Equipment,Cooking Gear,TrailChef Water Bag,Canada 
+86,2004,Mail,52613.47,Camping Equipment,Cooking Gear,TrailChef Water Bag,Mexico 
+87,2004,Mail,41912.85,Camping Equipment,Cooking Gear,TrailChef Water Bag,Brazil 
+88,2004,Mail,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Japan 
+89,2004,Mail,156324.28,Camping Equipment,Cooking Gear,TrailChef Water Bag,Korea 
+90,2004,Mail,23042.67,Camping Equipment,Cooking Gear,TrailChef Water Bag,China 
+91,2004,Mail,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Singapore 
+92,2004,Mail,66446.59,Camping Equipment,Cooking Gear,TrailChef Water Bag,Australia 
+93,2004,Mail,13620.11,Camping Equipment,Cooking Gear,TrailChef Water Bag,Netherlands 
+94,2004,Mail,77447.93,Camping Equipment,Cooking Gear,TrailChef Water Bag,Sweden 
+95,2004,Mail,6615.84,Camping Equipment,Cooking Gear,TrailChef Water Bag,Finland 
+96,2004,Mail,52613.47,Camping Equipment,Cooking Gear,TrailChef Water Bag,Denmark 
+97,2004,Mail,41912.85,Camping Equipment,Cooking Gear,TrailChef Water Bag,France 
+98,2004,Mail,59479.91,Camping Equipment,Cooking Gear,TrailChef Water Bag,Germany 
+99,2004,Mail,156324.28,Camping Equipment,Cooking Gear,TrailChef Water Bag,United Kingdom
