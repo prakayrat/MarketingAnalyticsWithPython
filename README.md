@@ -13,5 +13,5 @@
 ---
 
 
-![เนื้อหาโดยสังเขป](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/db59b937-bdc1-482a-8bee-9a6d04363276 = 200x400)
+![เนื้อหาโดยสังเขป](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/db59b937-bdc1-482a-8bee-9a6d04363276 = 250x)
 
