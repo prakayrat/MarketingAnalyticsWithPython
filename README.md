@@ -12,4 +12,5 @@
 
 ---
 
-![เนื้อหาโดยสังเขป](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/fc58c774-97ca-43b5-a5fa-aec0a61b96fd)
+![เนื้อหาโดยสังเขป2](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/8ff3bb52-24be-43f0-9def-6a5ee4b2de4b)
+
