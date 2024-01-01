@@ -11,6 +11,4 @@
 ![cover](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/83e34b84-f43b-40d0-8d59-1e37b83aec24)
 
 ---
-
-![เนื้อหาโดยสังเขป2](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/8ff3bb52-24be-43f0-9def-6a5ee4b2de4b)
-
+![เนื้อหาโดยสังเขป2](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/36869487-5163-4683-80b5-78c689284907)
