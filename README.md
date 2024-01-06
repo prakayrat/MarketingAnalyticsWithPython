@@ -8,8 +8,7 @@
 ราคา 350 บาท   
 
 ---
-![front-back](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/49793afb-dfac-4b2d-be43-e77da376bf1c)
-
+![วิเคราะห์การตลาด (1)](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/c89ecfcd-56a2-4b05-85b0-d9dad453ff72)
 
 ---
 ![เนื้อหาโดยสังเขป](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/cc1f12a9-ed40-43d2-b89e-025fdd93fcf4)
