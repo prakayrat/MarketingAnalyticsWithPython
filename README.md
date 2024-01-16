@@ -5,10 +5,12 @@
 ราคา 350 บาท 
 
 
-จำหน่ายผ่าน www.mebmarket.com และ www.ookbee.com
+จำหน่ายผ่าน www.mebmarket.com และ www.ookbee.com   
+
 คลิกที่นี่   
 [หนังสือ Data Science วิเคราะห์การตลาดด้วย Python @ mebmarket](https://www.mebmarket.com/ebook-280821-Data-Science-วิเคราะห์การตลาดด้วย-Python).
-มีส่วนลด เหลือ 280 บาท ![easy](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/effaee40-9802-4936-89b9-1486aab3f701)
+มีส่วนลด เหลือ 280 บาท ![easy](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/5998362b-4018-4324-bba0-013d255a0e40)
+
 
 
 ---
