@@ -2,10 +2,9 @@
 โดย ผศ.ประกายรัตน์ วิเศษสงวน และ อาจารย์อมรวิทย์ วิเศษสงวน
 
 เผยแพร่ครั้งแรก : มกราคม 2567   
-#### ราคา 350 บาท   
 
 
-จำหน่ายผ่าน [mebmarket](https://www.mebmarket.com/ebook-280821-Data-Science-วิเคราะห์การตลาดด้วย-Python) , [ookbee](https://www.ookbee.com/) และ [Chula Book](https://www.chulabook.com/)  
+จำหน่ายผ่าน [mebmarket](https://www.mebmarket.com/ebook-280821-Data-Science-วิเคราะห์การตลาดด้วย-Python) , [ookbee](https://www.ookbee.com/) และ แอป CU-eBook   
    
    
 เข้าร่วมโครงการ  ![easy](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/dfb2f5db-def2-4026-94d0-d9f9c876793f)    มีส่วนลด 15-20%
