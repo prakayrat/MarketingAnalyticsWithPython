@@ -2,7 +2,7 @@
 โดย ผศ.ประกายรัตน์ วิเศษสงวน และ อาจารย์อมรวิทย์ วิเศษสงวน
 
 เผยแพร่ครั้งแรก : มกราคม 2567   
-
+   
 
 จำหน่ายผ่าน [mebmarket](https://www.mebmarket.com/ebook-280821-Data-Science-วิเคราะห์การตลาดด้วย-Python) , [ookbee](https://www.ookbee.com/) และ แอป CU-eBook   
    
