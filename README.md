@@ -7,7 +7,6 @@
 จำหน่ายผ่าน [mebmarket](https://www.mebmarket.com/ebook-280821-Data-Science-วิเคราะห์การตลาดด้วย-Python) , [ookbee](https://www.ookbee.com/) และ [CHULA BOOK](https://www.chulabook.com/categories?text=ประกายรัตน์) 
    
    
-เข้าร่วมโครงการ  ![easy](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/dfb2f5db-def2-4026-94d0-d9f9c876793f)    มีส่วนลด 15-20%
 
 
 
