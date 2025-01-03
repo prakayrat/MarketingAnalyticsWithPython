@@ -17,4 +17,4 @@
 ---
 ![เนื้อหาโดยสังเขป](https://github.com/prakayrat/MarketingAnalyticsWithPython/assets/51775195/9edc663d-6175-45bb-b67c-a208fead0467)
 
-หมายเหตุ azra_retail_transactions.csv มีขนาดใหญ่ หากผู้อ่านต้องการไฟล์นี้ กรุณาติดต่อมายัง email เพื่อขอรับไฟล์ได้เลยคะ
+
